@@ -18,8 +18,9 @@ My first custom mechanical keyboard PCB design, built with RP2040, hot-swap sock
 
 ## 📸 Preview
 
-*(You can add your renders or photos here later!)*
+![Kicad PCB Render](./images/preview1.png)
 
+![Schematic Render](./images/preview2.png)
 ---
 
 ## 📌 Project Overview
