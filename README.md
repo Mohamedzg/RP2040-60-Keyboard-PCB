@@ -27,7 +27,7 @@ My first custom mechanical keyboard PCB design, built with RP2040, hot-swap sock
 
 This is a 60% mechanical keyboard PCB designed as a learning project.
 
-I’m a systems & network student, and this is my first experience with:
+I’m a systems & network specialist, and this is my first experience with:
 * PCB design
 * Electronics
 * Hardware prototyping
