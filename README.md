@@ -123,7 +123,7 @@ You can use manufacturers like:
 * **Finish:** HASL or ENIG
 
 ### 3. Order Components
-Use the BOM list located in `/hardware/bom.csv`.
+Use the BOM list located in `/hardware/bom.txt`.
 
 **Main parts needed:**
 * RP2040 MCU
