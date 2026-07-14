@@ -57,7 +57,7 @@ Instead of starting small, I challenged myself with a full keyboard to learn fas
 │   ├── kicad              → KiCad project files
 │   ├── gerbers            → Ready-to-manufacture files
 │   ├── drills             → NC drill files for manufacturing
-│   ├── bom.txt            → Components list
+│   └── bom.txt            → Components list
 │
 └── images                 → Renders, schematic
 ├── README.md
