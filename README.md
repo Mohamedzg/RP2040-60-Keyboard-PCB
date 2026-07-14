@@ -56,10 +56,9 @@ Instead of starting small, I challenged myself with a full keyboard to learn fas
 ├── hardware
 │   ├── kicad              → KiCad project files
 │   ├── gerbers            → Ready-to-manufacture files
-│   ├── schematic          → PDF + images
-│   └── pcb                → Layout exports
-├── bom
-│   └── bom.csv            → Components list
+│   ├── drills             → NC drill files for manufacturing
+│   ├── bom.txt            → Components list
+│
 └── images                 → Renders, diagrams
 ├── README.md
 └── LICENSE
