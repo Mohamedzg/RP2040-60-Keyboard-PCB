@@ -45,7 +45,7 @@ Instead of starting small, I challenged myself with a full keyboard to learn fas
 * 🔲 **Cherry MX compatible**
 * 🔌 **Matrix scanning** (row/column)
 * ➕ **Per-key diodes**
-* 💡 **LED support** (basic implementation)
+* 💡 **LED support** 
 * 📦 **2-layer PCB** (JLCPCB / PCBWay ready)
 
 ---
@@ -59,7 +59,7 @@ Instead of starting small, I challenged myself with a full keyboard to learn fas
 │   ├── drills             → NC drill files for manufacturing
 │   ├── bom.txt            → Components list
 │
-└── images                 → Renders, diagrams
+└── images                 → Renders, schematic
 ├── README.md
 └── LICENSE
 ```
@@ -169,6 +169,10 @@ Planned improvements for the next revision:
 * 💡 Better LED implementation (possibly addressable RGB)
 * 📐 Cleaner routing
 * 🧱 Case compatibility improvements
+* 💻 **Full QMK / VIAL Firmware Support**
+  * 🌈 Hardware-level RGB matrix controller integration (e.g., IS31FL3731 or similar)
+  * 🎹 Dedicated onboard EEPROM / Flash partitioning for custom on-the-fly macros
+  * ⚙️ VIAL compatibility for GUI-based key remap and macro configuration
 
 ---
 
@@ -197,8 +201,8 @@ If you notice:
 ## 📖 Learning Resources
 
 This project was inspired by:
-* Official RP2040 Hardware Design Guides
-* Open-source keyboard PCBs
+* Official RP2040 Hardware Design Guides * [Hardware design with RP2040](https://pip-assets.raspberrypi.com/categories/814-rp2040/documents/RP-008279-DS-1-hardware-design-with-rp2040.pdf)
+* Open-source keyboard PCBs * [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
 * Community design projects
 
 ---
@@ -211,12 +215,14 @@ This project is licensed under the [CC0-1.0 license](LICENSE).
 
 ## 🙌 Final Note
 
-This is my first PCB ever, so expect some imperfections! 
+Thank you so much for taking the time to check out my very first PCB project! As a systems & network student, diving into the world of hardware design and electronics has been an incredibly exciting challenge. Having you read through this repository means a lot to me.
 
+This is my first PCB ever, so expect some imperfections! 
 The ultimate goal is to **learn, share, and improve publicly**. If this helps you or you decide to build it, that’s already a win!
 
 ### ⭐ Support
 If you like this project:
 * ⭐ **Star** this repo
 * 🍴 **Fork** it to play with it
-* 🧠 **Suggest** improvements
+* 📧 **Reach out** — Let's connect on [Discord](https://discord.com/users/661954505289760768) or [LinkedIn](https://www.linkedin.com/in/zaki-mohamed-48a702226)!
+* 💬 **Open an Issue or PR** — I'd love your feedback!
