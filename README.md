@@ -167,18 +167,6 @@ Planned support:
 
 ---
 
-## 🚧 Known Uncertainties & Risks
-
-Things I’m not fully confident about yet:
-* ❓ USB power section
-* ❓ LED wiring
-* ❓ Some routing choices
-* ❓ Trace widths in certain areas
-* ❓ Mounting hole placement
-* ❓ Noise / signal integrity
-
----
-
 ## 🔄 V2 (In Progress)
 
 Planned improvements for the next revision:
