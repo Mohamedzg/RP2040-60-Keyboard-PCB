@@ -60,8 +60,7 @@ Instead of starting small, I challenged myself with a full keyboard to learn fas
 │   └── pcb                → Layout exports
 ├── bom
 │   └── bom.csv            → Components list
-└── docs
-    └── images             → Renders, diagrams
+└── images                 → Renders, diagrams
 ├── README.md
 └── LICENSE
 ```
