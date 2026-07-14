@@ -95,24 +95,21 @@ Each switch includes a diode to prevent:
 * ESD protection included (basic).
 * Decoupling capacitors placed near the MCU.
 
-> ⚠️ *This section is one of the areas I’m least confident about.*
 
 ---
 
 ## 💡 LEDs
 
 * Basic per-key LED footprint included.
-* No advanced RGB controller.
-* No firmware implementation yet.
-
-👉 *This will likely be improved in V2.*
+* advanced RGB controller.
+* firmware implementation.
 
 ---
 
 ## 🛠️ How to Manufacture
 
 ### 1. Export Gerbers
-Already included in `/gerbers`.
+Already included in `hardware/gerbers`.
 
 ### 2. Order PCB
 You can use manufacturers like:
@@ -126,7 +123,7 @@ You can use manufacturers like:
 * **Finish:** HASL or ENIG
 
 ### 3. Order Components
-Use the BOM list located in `/bom/bom.csv`.
+Use the BOM list located in `/hardware/bom.csv`.
 
 **Main parts needed:**
 * RP2040 MCU
@@ -149,8 +146,6 @@ Use the BOM list located in `/bom/bom.csv`.
 Planned support:
 * **QMK**
 * **KMK** (CircuitPython, extremely RP2040 friendly)
-
-> ⚠️ *Firmware is not fully tested yet.*
 
 ---
 
