@@ -9,8 +9,6 @@ Use at your own risk if you decide to manufacture it
 
 👉 This project is shared for learning, experimentation, and community feedback
 
-
-
 📸 Preview
 
 (you can add your renders here later)
