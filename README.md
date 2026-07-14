@@ -224,5 +224,5 @@ The ultimate goal is to **learn, share, and improve publicly**. If this helps yo
 If you like this project:
 * ⭐ **Star** this repo
 * 🍴 **Fork** it to play with it
-* 📧 **Reach out** — Let's connect on [Discord](https://discord.com/users/661954505289760768) or [LinkedIn](https://www.linkedin.com/in/zaki-mohamed-48a702226)!
 * 💬 **Open an Issue or PR** — I'd love your feedback!
+* 📧 **Reach out** — Let's connect on [Discord](https://discord.com/users/661954505289760768) or [LinkedIn](https://www.linkedin.com/in/zaki-mohamed-48a702226)!
